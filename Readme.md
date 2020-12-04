@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий Васильев](https://up.htmlacademy.ru/ecmascript/13/user/435259).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
